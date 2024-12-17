@@ -1,0 +1,1847 @@
+<style>
+      /* fix bad dark mode */
+      body {
+        background-color: #ffffff;
+        forced-color-adjust: none;
+      }
+</style>
+<title>all url's list(internal)</title>
+<link rel="icon" href="https://codehs.com/uploads/958904a074347979b04e0d26b4970453" type="image/x-icon">
+<b>you can use any device(including school devices) to load:</b><br>
+<a href = "./">homepage</a><br>
+<a href = "./all_urls.html">all url's list (internal)</a><br>
+<a href = "./crappy_search">my bad search engine</a><br>
+<a href = "https://moocatmeow.codehs.me">my codehs site moocatmeow.codehs.me</a><br>
+<a href = "https://moocatmeow.neocities.org/">my neocities site moocatmeow.neocities.org (be careful as the main site(https://neocities.org/) is blocked)</a><br>
+<a href = "https://igrapher-known-bugs-8583956.codehs.me/index.html">IGRAPHER known bugs</a><br>
+<a href = "https://www.youtube.com/@moocatmeow">moocatmeow youtube</a><br>
+<a href = "https://www.youtube.com/playlist?list=PLrFkQSdgxcwpcpbrrt7qjs7PcBTqBmevU">chipflake music playlist youtube</a><br>
+<a href = "https://scratchblocksgithubio-486-1-7999137.codehs.me/scratchblocks.github.html#?style=scratch3&script=">scratch blocks</a><br>
+<a href = "https://www.tinkercad.com/users/5Zzx37jgPZ9">tinkercad moocatmeow</a><br>
+<a href = "https://www.cemetech.net/users/moocatmeow">moocatmeow cemetech</a><br>
+<a href = "https://docs.google.com/spreadsheets/d/1ONVcbCjAzxeM_vkbHGXPHuzxryRy9sYMh6juHfp20sY/edit?usp=drive_link">super mario world power up and item box chart google sheets</a><br>
+<a href = "https://docs.google.com/spreadsheets/d/1-D868J9leOunlLYSx7thwnmPpiZt2OjPna2Yex8ZZpc/edit?usp=drive_link">what beats rock chart google sheets</a><br>
+<a href = "https://illu-decode-11002161.codehs.me/index.html">illu amv decode atempt</a><br>
+<a href = "javascript:var s=document.createElement('script');s.type='text/javascript';s.src='https://sheeptester.github.io/javascripts/eval.js';document.body.appendChild(s);void(0);">eval.js sheeptester javascript console</a>
+<hr>
+<b>you can use any device while not on school grounds(including devices that think they are not at school) to load:</b><br>
+<a href = "https://bsky.app/profile/moocatmeow.bsky.social">moocatmeow(fire cat) blue sky (wifi policy issues+securly zoning issues(reason=domainblockedforuser, Reason: Blocked by Category, Category: Social networking, Policy: DHS Policy))</a><br>
+<a href = "https://bsky.app/profile/moocatmeow-fire.bsky.social">moocatmeow-fire(restricted fire cat) blue sky (wifi policy issues+securly zoning issues(reason=domainblockedforuser, Reason: Blocked by Category, Category: Social networking, Policy: DHS Policy))</a><br>
+<a href = "https://twitter.com/moocatmeow_fire">NOT ACTIVE     moocatmeow_fire (fire cat) twitter (wifi policy issues+securly zoning issues(reason=domainblockedforuser, Reason: Blocked by Category, Category: Social networking, Policy: DHS Policy))</a><br>
+<a href = "https://twitter.com/moocatmeow">NOT ACTIVE     moocatmeow (depressed fire cat) twitter (wifi policy issues+securly zoning issues(reason=domainblockedforuser, Reason: Blocked by Category, Category: Social networking, Policy: DHS Policy))</a><br>
+<hr>
+<b>you can use any device without securly(or any device where it is non-functional) to load:</b><br>
+<a href = "https://scratch.mit.edu/users/moocatmeow">moocatmeow scratch (securly issues(reason=globalblacklist, Reason: Site is in Global Block List, Category: Educational, Policy: Global))</a><br>
+<a href = "https://scratch.mit.edu/users/moocatmeowtest">moocatmeowtest scratch (securly issues((reason=globalblacklist, Reason: Site is in Global Block List, Category: Educational, Policy: Global)))</a><br>
+<a href = "https://scratch.mit.edu/users/bananamoocat">bananamoocat scratch (securly issues((reason=globalblacklist, Reason: Site is in Global Block List, Category: Educational, Policy: Global)))</a><br>
+<a href = "https://scratch.mit.edu/users/thebrokencat">thebrokencat scratch (securly issues((reason=globalblacklist, Reason: Site is in Global Block List, Category: Educational, Policy: Global)))</a><br>
+<a href = "https://snap.berkeley.edu/user?username=moocatmeow">moocatmeow snap byob (securly issues(reason=globalblacklist, Reason: Site is in Global Block List, Category: Educational, Policy: Global))</a><br>
+<a href = "https://www.pixilart.com/moocatmeow">moocatmeow pixil art (securly issues(reason=globalblacklist, reason=globalblacklist, Reason: Site is in Global Block List, Category: Educational, Policy: Global))</a><br>
+<a href = "https://sandspiel.club/browse/search/?user=z0gsx458IaUxGrZjeqD8naPo3s52">fire cat sandspiel (securly issues(reason=globalblacklist, Reason: Site is in Global Block List, Category: Other adult content, Policy: Global))</a><br>
+<a href = "https://websim.ai/@moocatmeow">moocatmeow websim.ai</a><br>
+<a href = "https://scaniverse.com/@moocatmeow">moocatmeow saniverse</a><br>
+<hr>
+<b>you need a non-school* device to load:</b><br>
+<a href = "https://github.com/dan9936054">dan9936054 github (user policy issues)</a><br>
+<a href = "https://archive.org/details/@daniel_hulben-osburn">Daniel hulben-osburn (moocatmeow) The Internet Archive (wifi policy issues+user policy issues+securly issues(reason=globalblacklist, Reason: Site is in Global Block List, Category: Anonymous proxies, Policy: Global))</a><br>
+<hr>
+<b>you can use some device's without securly(or some device's where it is non-functional) but they can't use school wifi to load it:</b><br>
+<a href = "https://www.whatbeatsrock.com/user/moocatmeow">moocatmeow what beats rock (wifi policy issues+securly issues(reason=domainblockedforuser, Reason: Blocked by Category, Category: Games, Policy: Parent Policy/Policy: DHS Policy))</a><br>
+<hr>
+<b>you need a non-school* device that is off of school wifi to load(with some exceptions)</b><br>
+<a href = "http://moocatmeow.ct.ws">my http site memoocatmeow.ct.ws (wifi policy issues+securly zoning issues(reason=domainblockedforuser,Reason: Blocked by Category, Category: Uncategorized, Policy: DHS Policy))</a><br>
+<a href = "https://discord.gg/drEv64FdnZ">-fire cat(moocatmeow) discord server ("Fortigate" issue+wifi policy issues+securly issues(reason=globalblacklist, Reason: Site is in Global Block List, Category: Chat/Messaging, Policy: Global))</a><br>
+<hr>
+<b>you need a non-school* device that is off of school wifi to load(NO EXCEPTIONS*)</b><br>
+<a href = "https://www.reddit.com/user/Moocatmeow_fire">Moocatmeow_fire reddit (wifi policy issues+securly issues(reason=globalblacklist, Reason: Site is in Global Block List, Category: Other adult content, Policy: Global))</a><br>
+<hr>
+<pre>
+*certain security bypasses may or may not have the ability to also bypass Wi-Fi and user level policy restrictions
+</pre>
+<?php
+$userAgent=$_SERVER['HTTP_USER_AGENT'];
+?>
+<div id="serverSideUserAgent"><?php echo htmlspecialchars($userAgent, ENT_QUOTES, 'UTF-8'); ?></div><hr>
+<div id="no_js"><a>javaScript could not be run, normal detection not available</a><br> resorting to archaic means<br>
+<iframe src="de.t" height="500">
+    <a>iframe could not be loaded, trying localy</a>
+<meta charset="UTF-8">
+<a href = "de.t">reload</a>
+<a href = "chars">chars</a>
+<br>null-
+<br>Andriod-
+<br>ChromeOS-  
+<br>apple-
+<br>windows xp-
+<br>linux-
+<br>dillo-
+<br>windows 11- 
+<br><br>
+Andriod:
+<br>
+<br>
+<br>
+<br><br>
+ChromeOS:
+<br> 
+<br>  
+<br> 
+<br><br>
+Apple:
+<br>
+<br>
+<br>
+<br><br>
+windows xp:
+<br> 
+<br>
+<br>
+<br><br>
+windows 11:
+<br> 
+<br> 
+<br> 
+<br><br>
+linux:
+<br>
+<br>
+<br>
+<br><br>
+dillo:
+<br>
+<br>
+<br>
+<br><br>
+links:
+<br>
+<br>
+<br>
+<br><br>
+</iframe>
+</div>
+<script>
+    document.body.removeChild(document.getElementById("no_js"))
+    a=document.createElement('a');
+    a.id="some_js"
+    a.innerText="some js is avalable, but something importent is broken\n";
+    document.body.appendChild(a)
+</script>
+<script>
+    a=document.createElement('a');
+    a.id="most_js"
+    document.body.appendChild(a)
+</script>
+<script src="/get.js"></script>
+<script type="text/vbscript">
+  MsgBox "Hello, VBScript!"
+</script>
+<script>
+a=document.createElement('a');
+a.type='text/html';
+b=window.navigator.userAgent;
+a.innerText=b;
+document.body.appendChild(a);
+</script>
+<br>
+<script>
+a=document.createElement('a');
+a.type='text/html';
+c=window.navigator.platform;
+d=c
+a.innerText=c;
+document.body.appendChild(a);
+</script>
+<script>
+a=document.createElement('a');
+a.type='text/html';
+c="¯".split("")["¯".length-1]+window.navigator.userAgentData.platform;
+if (window.navigator.userAgentData.platform!=undefined){
+d=d+c
+a.innerText=c;
+document.body.appendChild(a);
+}
+</script>
+<script>
+a=document.createElement('a');
+a.type='text/html';
+c="¬".split("")["¬".length-1]+window.navigator.vendor;
+d=d+c
+if (window.navigator.vendor!=undefined){
+if (window.navigator.vendor!=""){
+    a.innerText=c;
+    document.body.appendChild(a); 
+}
+}
+</script>
+<script>
+a=document.createElement('a');
+a.type='text/html';
+c="¬".split("")["¬".length-1]+"mobile:"+window.navigator.userAgentData.mobile;
+d=d+c
+a.innerText=c;
+document.body.appendChild(a);   
+</script>
+<script>
+D=""
+B=""
+</script>
+<script>
+c=document.createElement('a');
+c.type='text/html';
+if (window.navigator.userAgentData.brands!=""){
+    for (i in window.navigator.userAgentData.brands) {
+        if (window.navigator.userAgentData.brands[i]["brand"]=="Not=A?Brand"||window.navigator.userAgentData.brands[i]["brand"]=="Not?A_Brand"||window.navigator.userAgentData.brands[i]["brand"]=="Not_A Brand"){
+            c.innerText=c.innerText+" Version "+window.navigator.userAgentData.brands[i]["version"]
+        }else{
+            c.innerText=c.innerText+" "+window.navigator.userAgentData.brands[i]["brand"]+" "+window.navigator.userAgentData.brands[i]["version"]
+        }
+    }
+}
+D=c.innerText
+if (c.innerText!=""){
+    document.body.appendChild(c);
+}
+</script>
+<br>
+<!--[if IE]>
+<script>c=document.createElement('a');c.type='text/html';c.innerText=" Internet Explorer internals, ";B=B+c.innerText;document.body.appendChild(c);</script>
+<![endif]-->
+<script>
+c=document.createElement('a');
+//document.getElementById("main out").appendChild(c);
+c.type='text/html'
+c.id="1"
+document.body.appendChild(c);
+window.onload= async function() {
+    try{
+        B=B+" onLoad: "
+        async function c(){
+        BB=""
+        if(window.speechSynthesis.getVoices().length>500){
+            c=document.createElement('a');
+            c.type='text/html'; 
+            c.innerText=" 500 out of "+window.speechSynthesis.getVoices().length+" Voice internals checked, "
+            B=B+c.innerText
+            document.getElementById("2").appendChild(c);
+        }
+        try{
+            var i=1
+            for(item in window.speechSynthesis.getVoices()){
+                BB+=window.speechSynthesis.getVoices()[item].voiceURI+" "
+                if(i>500){
+                    throw("too mutch!!")
+                }
+                i+=1
+            }
+        }catch(error){}
+        c=document.createElement('a');
+        if(BB.indexOf("Chrome OS")!==-1){
+            c=document.createElement('a');
+            c.type='text/html'; 
+            c.innerText=" ChromeOS internals, "
+            B=B+c.innerText
+            document.getElementById("1").appendChild(c);
+        }
+        if(BB.indexOf("Microsoft")!==-1){
+            c=document.createElement('a');
+            c.type='text/html'; 
+            c.innerText=" Microsoft internals, "
+            B=B+c.innerText
+            document.getElementById("1").appendChild(c);
+        }
+        if(BB.indexOf("apple")==-1&&BB.indexOf("Samantha")!==-1){
+            c=document.createElement('a');
+            c.type='text/html'; 
+            c.innerText=" Apple like internals, "
+            B=B+c.innerText
+            document.getElementById("1").appendChild(c);
+        }
+        if(BB.indexOf("Google")!==-1){
+            c=document.createElement('a');
+            c.type='text/html'; 
+            c.innerText=" Google internals, "
+            B=B+c.innerText
+            document.getElementById("1").appendChild(c);
+        }
+        if(BB.indexOf("moz")!==-1){
+            c=document.createElement('a');
+            c.type='text/html'; 
+            c.innerText=" Mozilla internals, "
+            B=B+c.innerText
+            document.getElementById("1").appendChild(c);
+        }
+        if(BB.indexOf("Android")!==-1){
+            c=document.createElement('a');
+            c.type='text/html'; 
+            c.innerText=" Android internals, "
+            B=B+c.innerText
+            document.getElementById("1").appendChild(c);
+        }
+        if(BB.indexOf("eSpeak")!==-1){
+            c=document.createElement('a');
+            c.type='text/html'; 
+            c.innerText=" eSpeak internals, "
+            B=B+c.innerText
+        }
+        }
+        await c()
+    }catch{
+        if(window.speechSynthesis==undefined){
+            c=document.createElement('a');
+            c.type='text/html'; 
+            c.innerText=", no TTS voices "
+            B=B+c.innerText
+            document.getElementById("3").appendChild(c);
+        }else{
+            if(BB!==undefined){
+                c=document.createElement('a');
+                c.type='text/html'; 
+                c.innerText=" Unknown internals, "
+                B=B+c.innerText
+                document.getElementById("1").appendChild(c);
+            }
+        }
+    }
+    try{
+    if(document.styleSheets[1]!==undefined&&document.styleSheets[1].href!==undefined){
+            c=document.createElement('a');
+            c.type='text/html'; 
+            c.innerText=", font url, "
+            B=B+c.innerText
+            document.getElementById("3").appendChild(c);
+    if(window.document.styleSheets[1].href.indexOf("iheobagjkfklnlikgihanlhcddjoihkg")!==-1){
+            c=document.createElement('a');
+            c.type='text/html'; 
+            c.innerText=" Securly internals, "
+            B=B+c.innerText
+            document.getElementById("2.5").appendChild(c);
+    }
+    }
+    }catch(error){
+        c=document.createElement('a');
+        c.type='text/html'; 
+        c.innerText=", styleSheet error "
+        B=B+c.innerText
+        document.getElementById("3").appendChild(c);
+    }
+    c=document.createElement('a');
+    c.type='text/html';
+    c=document.createElement('a');
+    c.type='text/html';
+    if(window.__debug_anywhere!==undefined){
+        c.innerText=" Debug Anywhere internals, "
+        B=B+c.innerText
+    document.getElementById("2").appendChild(c);
+    if(__debug_anywhere.os!==undefined){
+        c.innerText=" "+__debug_anywhere.os+", "
+        B=B+c.innerText
+    document.getElementById("1").appendChild(c);
+    }
+    }
+    c=document.createElement('a');
+    c.type='text/html';
+    if(window.Readability!==undefined){
+        c.innerText=" RedApp internals, "
+        B=B+c.innerText
+    document.getElementById("2").appendChild(c);
+    }
+    try{
+    c=document.createElement('a');
+    c.type='text/html';
+    if(window.highlightSpan.className.indexOf("firefox")!==-1){
+        c.innerText=" Firefox Focus internals, "
+        window.B=B+c.innerText
+    document.getElementById("2").appendChild(c);
+    }
+    }catch(error){
+        
+    }
+    c=document.createElement('a');
+    c.type='text/html';
+    if(window.handleTouchMove!==undefined||window.startTouchTime!==undefined||window.handleTouchStart!==undefined||window.cancelLongPress!==undefined){
+        c.innerText=" 'Private Web Browser Incognito' internals, "
+        B=B+c.innerText
+    document.getElementById("2").appendChild(c);
+    }
+    c=document.createElement('a');
+    c.type='text/html';
+    if(window.restoreTranslationScript!==undefined){
+        c.innerText=" 'Offline' internals, "
+        B=B+c.innerText
+    document.getElementById("2").appendChild(c);
+    }
+    c=C
+    temp(0)
+    temp(1)
+    document.body.removeChild(document.getElementById("most_js"))
+}
+//document.getElementById("2").appendChild(c);
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if(window.cordova_iab!==undefined){
+        c.innerText=" Andriod in app browser internals, "
+        B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if(window.console.memory()!==undefined||window.chrome.webstore!==undefined){
+        c.innerText=" Old Google internals, "
+        B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if(window.speechSynthesis.getVoices()!==undefined&&window.speechSynthesis.getVoices().length==0||window.getDigitalGoodsService()!==undefined){
+        //if(window.speechSynthesis.getVoices()!==undefined&&window.speechSynthesis.getVoices().length){
+        //c.href='https://moocatmeow.codehs.me/inspect?a=window.speechSynthesis.getVoices()'
+        //}else{
+        //    if(window.getDigitalGoodsService()){
+        //    c.href='https://moocatmeow.codehs.me/inspect?a=window.getDigitalGoodsService()'
+        //    }
+        //}
+        c.innerText=" Google like internals, "
+        B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if(window.navigator.plugins[7].name.indexOf("Windows")!==-1){
+        c.innerText=" Windows internals, "
+        B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if(window.navigator.plugins['Microsoft® DRM']!==undefined){
+        c.innerText=" Microsoft internals, "
+        B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if(window.speechSynthesis.getVoices()[0].voiceURI!==undefined&&window.speechSynthesis.getVoices()[0].voiceURI.indexOf("apple")!==-1){
+        if(window.window.onorientationchange!==undefined){
+            c.innerText=" iOS internals, "
+        }else{
+        c.innerText=" Apple internals, "
+        }
+        B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if(window.orientation!==undefined){
+        c.innerText=" Mobile internals, "
+        B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if(window.fence!==undefined){
+        c.innerText=" Desktop internals, "
+        B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if(webkit===undefined){
+        c.innerText=" 'Browser and Documents Manager' internals, "
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if(window.maxthon!==undefined||window.maxthonBrowser!==undefined){
+        c.innerText=" Maxthon internals, "
+        B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html'
+    c.id="2"
+    document.body.appendChild(c);
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if(window.core!==undefined){
+        c.innerText=" Puffin "+core.version+" like internals, "
+        B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if(window.['__core-js_shared__'].keys.IE_PROTO!==undefined){
+        c.innerText=" Internet Explorer compatabality internals, "
+        B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if(window.__upx!==undefined){
+        c.innerText=" UPX(terrible shit) internals, "
+        B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if(window.__upx!==undefined){
+        c.innerText=" UPX(terrible shit) internals, "
+        B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if(window.injectProtection!==undefined){
+        c.innerText=" 'Startpage' internals, "
+        B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if(window.script!==undefined){
+        c.innerText=" 'Desktop Browser' internals, "
+        B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if(window.oprt!==undefined{
+        c.innerText=" Opera Touch internals, "
+        B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if(window.opr!==undefined||window.isOpera==true||window.fio.isOpera==true||window.ethereum.isOpera==true||window.ethereum.providerName=="opera"||window.web3.currentProvider.isOpera==true||window.web3.currentProvider.providerName=="opera"){
+        c.innerText=" Opera internals"
+        //if(window.opr.authPrivate!==undefined&&window.opr.authPrivate.API_VERSION!==undefined&&){
+        //    c.innerText+=" "+window.opr.authPrivate.API_VERSION
+        //}
+        c.innerText+=", "
+        B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if(window.oprt!==undefined||window.__oprt!==undefined){
+        c.innerText=" Opera Touch internals, "
+        B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if(window.yandex!==undefined||window.Ya!==undefined||__gCrWeb.yandex!==undefined){
+        c.innerText=" Yandex internals, "
+        B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if(window.external.getHostEnvironmentValue!==undefined||window.speechSynthesis.preload!==undefined){
+        c.innerText=" Desktop Edge like internals, "
+        B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if(window._injected_edge_tracking_prevention_statistics!==undefined||__gCrWeb.edgeEE!==undefined){
+        c.innerText=" Edge internals, "
+        B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if(window.kagi!==undefined||window.KAGI!==undefined){
+        c.innerText=" Orion internals, "
+        B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if(window.observeHeadAdded!==undefined){
+        c.innerText=" Arc Search internals, "
+        B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if(window.sb_webkit!==undefined){
+        c.innerText=" 'SecretBrowser' internals, "
+        B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if(window.GZuCXYjGYOvl!==undefined){
+        c.innerText=" iOS 'Browser and Documents Manager' internals, "
+        B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if(window._injected_website_dark_mode!==undefined){
+        c.innerText=" iOS Vivaldi internals, "
+        B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if(window.gcrweb!==undefined||window.__gCrWeb!==undefined){
+        c.innerText=" iOS Chrome internals, "
+        B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if(window.videoLite!==undefined){
+        c.innerText=" iOS Video Lite internals, "
+        B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if(window.gmaSdk!==undefined){
+        c.innerText=" gmaSdk internals, "
+        B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if(window._0x1df9!==undefined||window._0x4a49!==undefined||window._0xd9327a!==undefined){
+        c.innerText=" iOS Offline video player internals, "
+        B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if(window.videoEvent!==undefined){
+        c.innerText=" Offline Player Video internals, "
+        B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if(window.youtubeMedia!==undefined){
+        c.innerText=" Offline 'Pro' Youtube Player internals, "
+        B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if(window.ytlib!==undefined||__firefox__.videoStopLoading!==undefined){
+        c.innerText=" Dig Music Youtube Player internals, "
+        B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if(window.initVideoControl!==undefined){
+        c.innerText=" Float Video Player internals, "
+        B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if(window.u2f!==undefined){
+    pre=[];
+    for (var Pre in window){pre.push(Pre)}
+    Pre=pre//W/ISB/fido2/fido/DHHF/VSF
+    for(pre in Pre){
+        pre=Pre[pre]
+    if(pre.indexOf("W")==0||pre.indexOf("IFSN")==0||pre.indexOf("ISB")==0||pre.indexOf("fido")==0||pre.indexOf("DHFF")==0||pre.indexOf("VSF")==0||window.install!==undefined){
+        c.innerText=" Phoenix internals, "
+        B=B+c.innerText
+    document.body.appendChild(c);
+    }
+    }
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if(navigator.duckduckgo!==undefined||navigator._duckduckgoloader_!==undefined){
+        c.innerText=" DuckDuckGo internals, "
+        B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if(window.speechSynthesis.getVoices()[0].voiceURI.indexOf("moz")!==-1){
+        c.innerText=" Desktop Mozilla FireFox internals, "
+        B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if(navigator.globalPrivacyControl!==undefined&&window.__firefox__!==undefined){
+        c.innerText=" Brave internals, "
+        B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if(window.__firefox__!==undefined||window.mozInnerScreenX!==undefined||applicationCache.mozItems!==undefined){
+        c.innerText=" Mozilla FireFox internals, "
+        B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if(navigator.alohabrowser!==undefined||cookiesConsentManager.isAloha==true){
+        c.innerText=" Aloha internals, "
+        B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if(window.webkitIndexedDB==undefined){
+        c.innerText=" Desktop Chrome like internals, "
+        B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if(window.chrome!==undefined||document.styleSheets[1].href.indexOf("chrome")==0||window.InstallTrigger.installChrome!==undefined){
+        c.innerText=" Chrome internals, "
+        B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if(window.safari!==undefined){
+        c.innerText=" Desktop Safari internals, "
+        B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if(window.browser!==undefined){
+        c.innerText=" Safari internals, "
+        B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if(window.ReactNativeWebView!==undefined){
+        c.innerText=" React Native WebView internals, "
+        B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if(window.weblib!==undefined){
+        c.innerText=" Weblib internals, "
+        B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if(window.sms_r_h_clear_search!==undefined){
+        c.innerText=" 'Smart Search & Web Browser' internals, "
+        B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if(window.fileHandler!==undefined){
+        c.innerText=" 'Private Browser Deluxe' internals, "
+        B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if(window.webkit!==undefined){
+        c.innerText=" Webkit internals, "
+        B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if(navigator.globalPrivacyControl!==undefined){
+        c.innerText=" GlobalPrivacyControl internals, "
+        B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if(window.regeneratorRuntime!==undefined){
+        c.innerText=" regeneratorRuntime internals, "
+        B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if(window.applicationCache!==undefined){
+        c.innerText=" Outdated internals, "
+        B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if(window.indexedDB==undefined){
+        c.innerText=" Old/Unknown internals, "
+        B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html'
+    c.id="2.5"
+    document.body.appendChild(c);
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if(window.u2f!==undefined){
+        c.innerText=" U2f Authenticator internals, "
+        B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if(window.fio!==undefined||window.ixo!==undefined||window.interchain!==undefined||window.elrond!==undefined||window.near!==undefined||window.ethereum!==undefined||window.web3!==undefined||window._CMB_!==undefined){
+        c.innerText=" Crypto internals:"
+        if(window.fio!==undefined){
+        c.innerText+="Fio, "
+        }
+        if(window.ixo!==undefined){
+            c.innerText+="Ixo, "
+        }
+        if(window.elrond!==undefined){
+            c.innerText+=" Elrond, "
+        }
+        if(window.ethereum!==undefined){
+            c.innerText+=" Ethereum, "
+        }
+        if(window.near!==undefined){
+            c.innerText+=" Near, "
+        }
+        if(window.interchain!==undefined){
+            c.innerText+=" Interchain, "
+        }
+        if(window.web3!==undefined){
+            c.innerText+=" web3, "
+        }
+        if(window._CBM_!==undefined){
+            c.innerText+=" _CBM_, "
+        }
+        c.innerText+=""
+        B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if(window.getScreenDetails()!==undefined){
+        c.innerText=" MultiScreen internals, "
+        B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if(window.navigator.windowControlsOverlay!==undefined){
+        c.innerText=" Window Controls internals, "
+        B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if(window.navigator.keyboard!==undefined){
+        c.innerText=" Keyboard internals, "
+        B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if(window.navigator.bluetooth!==undefined){
+        c.innerText=" Bluetooth internals, "
+        B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if(window.navigator.usb!==undefined){
+        c.innerText=" USB internals, "
+        B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if(window.navigator.serial!==undefined){
+        c.innerText=" Serial internals, "
+        B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if(window.navigator.xr!==undefined){
+        c.innerText=" WebXR internals, "
+        B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if(navigator.adAuctionComponents!==undefined||window.yandex.ads!==undefined){
+        c.innerText=" Ad internals, "
+        B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<br>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    c.innerText=" "+navigator.vendorSub
+    B=B+c.innerText
+    document.body.appendChild(c);
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    c.innerText="ospu:"+navigator.oscpu;
+    if (navigator.oscpu!=undefined){
+    B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    c.innerText="buildID:"+navigator.buildID;
+    if (navigator.buildID!=undefined){
+    B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    c.Navigator.appCodeName+" ";
+    if (Navigator.appCodeName!="Mozilla"){
+    B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    c.innerText=navigator.appName+", ";
+    if (navigator.appName!="Netscape"){
+    B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    c.innerText=navigator.maxTouchPoints.toString()+" finger touch,";
+    if (navigator.maxTouchPoints==0){
+        c.innerText="mouse,"
+    }else{
+
+        if (navigator.maxTouchPoints==5){
+            c.innerText="mobile touch,"
+        }
+    }
+    if(navigator.maxTouchPoints!=undefined){
+    c.innerText="input: "+c.innerText
+    B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    c.innerText=" "+window.screen.orientation.type+","
+    B=B+c.innerText
+    document.body.appendChild(c);
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    c.innerText=" mobile: "+navigator.userAgentData.mobile+","
+    B=B+c.innerText
+    document.body.appendChild(c);
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    c.innerText=navigator.deviceMemory+" GiB of RAM,";
+    if(navigator.deviceMemory!=undefined){
+    B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    c.innerText=window.navigator.hardwareConcurrency+" usable CPU thread(s),";
+    if(window.navigator.hardwareConcurrency!=undefined){
+    B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    c.innerText="online:"+navigator.onLine+",";
+    B=B+c.innerText
+    document.body.appendChild(c);
+</script>
+<script>c=document.createElement('a');c.type='text/html'</script>
+<script>if(navigator.connection.type!=undefined){c.innerText=c.innerText+navigator.connection.type;}</script>
+<script>if(navigator.connection.effectiveType!=undefined){c.innerText=c.innerText+" "+navigator.connection.effectiveType}</script>
+<script>if(navigator.connection.downlinkMax!=undefined){c.innerText=c.innerText+", max:"+navigator.connection.downlinkMax+"Mbps"}</script>
+<script>if(navigator.connection.downlink!=undefined){c.innerText=c.innerText+", current:"+navigator.connection.downlink*25+"Kbps"}</script>
+<script>if(navigator.connection.rtt!=undefined){c.innerText=c.innerText+", round-trip:"+navigator.connection.rtt*25+"ms"}</script>
+<script>if (navigator.connection.saveData){c.innerText=c.innerText+" low data mode"}</script>
+<script>if (c.innerText!=""){c.innerText="connection:"+c.innerText;document.body.appendChild(c)}</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    c.innerText=window.navigator.language+"("+navigator.languages+")";
+    if (navigator.language!=undefined||navigator.languages!=undefined){
+    B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    c.innerText=document.dir;
+    B=B+c.innerText
+    document.body.appendChild(c);
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if (navigator.cookieEnabled){
+        c.innerText="cookies enabled,";
+    }else{
+        c.innerText="cookies disabled,"
+    }
+    B=B+c.innerText
+    document.body.appendChild(c);
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if (navigator.doNotTrack){
+        c.innerText="doNotTrack enabled,";
+    }else{
+        c.innerText="doNotTrack disabled,"
+    }
+    B=B+c.innerText
+    document.body.appendChild(c);
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    c.innerText="globalPrivacyControl:"+navigator.globalPrivacyControl+",";
+    if (navigator.globalPrivacyControl!=undefined){
+    B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if (document.pictureInPictureEnabled){
+        c.innerText=" PiP supported,"
+    }else{
+        c.innerText=" PiP unsupported,"
+    }
+    +document.pictureInPictureEnabled
+    B=B+c.innerText
+    document.body.appendChild(c);
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if(document.fullscreenEnabled){
+        c.innerText=" fullscreen suported,"
+    }else{
+        c.innerText=" fullscreen unsuported,"
+    }
+    B=B+c.innerText
+    document.body.appendChild(c);
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if (navigator.pdfViewerEnabled){
+        c.innerText="PDF suported,"
+    }else{
+        c.innerText="PDF not suported,"
+    }
+    B=B+c.innerText
+    document.body.appendChild(c);
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if (window.c.spellcheck==true){
+        c.innerText="spellcheck enabled,"
+    }else{
+        if(window.c.spellcheck==false){
+        c.innerText="spellcheck disabled,"
+        }
+    }
+    B=B+c.innerText
+    document.body.appendChild(c);
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if (window.navigator.webdriver==true){
+        c.innerText="webdriver enabled,"
+    }else{
+        if(window.navigator.webdriver==undefined){
+        c.innerText="webdriver not suported,"
+        }
+    }
+    B=B+c.innerText
+    document.body.appendChild(c);
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    c.innerText=" "+window.navigator.gpu.getPreferredCanvasFormat()+","
+    B=B+c.innerText
+    document.body.appendChild(c);
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    c.innerText=" standalone:"+navigator.standalone+","
+    if (navigator.standalone!=undefined){
+    B=B+c.innerText
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    c.innerText=", "+document.compatMode+","
+    if(document.compatMode=="BackCompat"){
+        c.innerText=" "+"quirks mode "
+    }else if(document.compatMode=="CSS1Compat"){
+        c.innerText=" "+"no quirks mode "
+    }
+    B=B+c.innerText
+    document.body.appendChild(c);
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    c.innerText=navigator.productSub
+    if (navigator.productSub=="20030107"){
+        c.innerText="1"
+    }
+    if (navigator.productSub=="20100101"){
+        c.innerText="2"
+    }
+    if(navigator.productSub!==undefined){
+    c.innerText="productSub:"+c.innerText.toString()
+    B=B+c.innerText.toString()
+    document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    c.innerText="Plugins: "
+    if(window.navigator.plugins.length==0){
+        c.innerText=", no plugins"
+        document.body.appendChild(c);
+    }else{
+    for(i in window.navigator.plugins){
+        if(typeof window.navigator.plugins[i]=="object"){
+            c.innerText+="Name: "+window.navigator.plugins[i].name+" File: "+window.navigator.plugins[i].filename+" Ver: "+window.navigator.plugins[i].version+" Desc: "+window.navigator.plugins[i].description+" Leng: "+window.navigator.plugins[i].length+", "
+        }
+    }
+    plugins=c.innerText
+    if(c.innerText!=="Plugins: Name: PDF Viewer File: internal-pdf-viewer Ver: undefined Desc: Portable Document Format Leng: 2, Name: Chrome PDF Viewer File: internal-pdf-viewer Ver: undefined Desc: Portable Document Format Leng: 2, Name: Chromium PDF Viewer File: internal-pdf-viewer Ver: undefined Desc: Portable Document Format Leng: 2, Name: Microsoft Edge PDF Viewer File: internal-pdf-viewer Ver: undefined Desc: Portable Document Format Leng: 2, Name: WebKit built-in PDF File: internal-pdf-viewer Ver: undefined Desc: Portable Document Format Leng: 2, "){
+        document.body.appendChild(document.createElement('br'));
+        c=document.createElement('a');
+        c.type='text/html';
+        c.innerText="Plugins: "
+        if(plugins.indexOf("Plugins: Name: PDF Viewer File: internal-pdf-viewer Ver: undefined Desc: Portable Document Format Leng: 2, Name: Chrome PDF Viewer File: internal-pdf-viewer Ver: undefined Desc: Portable Document Format Leng: 2, Name: Chromium PDF Viewer File: internal-pdf-viewer Ver: undefined Desc: Portable Document Format Leng: 2, Name: Microsoft Edge PDF Viewer File: internal-pdf-viewer Ver: undefined Desc: Portable Document Format Leng: 2, Name: WebKit built-in PDF File: internal-pdf-viewer Ver: undefined Desc: Portable Document Format Leng: 2, ")!==-1){
+            c.innerText+="Normal PDF Capabilities,"
+            I=0
+        }else{
+            I=1
+        }
+        document.body.appendChild(c);
+        for(i in window.navigator.plugins){
+            if(typeof window.navigator.plugins[i]=="object"&&(window.navigator.plugins[i][0].suffixes!=="pdf"||Number.isNaN(parseInt(i))||i>4&&I==1)){
+                c=document.createElement('span');
+                c.type='text/html';
+                document.body.appendChild(document.createElement('br'));
+                c.innerHTML+=" plugin: "+i+", Name: "+window.navigator.plugins[i].name+", Desc: "+window.navigator.plugins[i].description+", File: "+window.navigator.plugins[i].filename+", Ver: "+window.navigator.plugins[i].version+", Leng: "+window.navigator.plugins[i].length+" "
+                document.body.appendChild(c);
+            }else{
+                if(typeof window.navigator.plugins[i]=="object"){
+                    
+                }
+            }
+        }
+    }
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html'
+    c.id="3"
+    document.body.appendChild(c);
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    if(document.cookie!==""){
+    c.innerText=" cookies: "+document.cookie
+    }
+    B=B+c.innerText
+    document.body.appendChild(c);
+</script>
+<!--<script>
+document.body.appendChild(document.createElement('br'));
+</script>
+-->
+<script>
+    if(window.location.origin.split("moocatmeow.")[1]=="codehs.me"){
+        c=document.createElement('a');
+        c.type='text/html';
+        c.innerText=", main website"
+        document.body.appendChild(c);
+    }else if(window.location.origin.split("moocatmeow.")[1]=="neocities.org"){
+        c=document.createElement('a');
+        c.type='text/html';
+        c.innerText=", alt website"
+        document.body.appendChild(c);
+    }else if(window.location.origin.split("moocatmeow.")[1]=="ct.ws"){
+        c=document.createElement('a');
+        c.type='text/html';
+        c.innerText=", http website"
+        document.body.appendChild(c);
+    }else if(window.loccation.origin.split("moocatmeow.")[1]==undefined&&(window.location.protocol!=="https:"||window.location.protocol!=="http:")){
+        c=document.createElement('a');
+        c.type='text/html';
+        if(window.location.origin=="externalfile://"){
+            c.innerText=", external file"
+        }else if(window.location.origin=="file://"){
+            c.innerText=", local file"
+        }else{
+        c.innerText=", "+window.location.protocol
+        }
+        document.body.appendChild(c);
+    }else{
+        c=document.createElement('a');
+        c.type='text/html';
+        c.innerText=", unknown/unofficial"
+        document.body.appendChild(c);
+    }
+</script>
+<script>
+    c=document.createElement('a');
+    c.type='text/html';
+    c.innerText=" "+document.characterSet
+    B=B+c.innerText
+    document.body.appendChild(c);
+</script>
+<hr>
+<script>
+    c=document.createElement('a');
+    c.type='text/html'
+    c.id="main out"
+    document.body.appendChild(c);
+</script>
+<script>
+c=document.createElement('a');
+C=c
+function temp(run){
+run=(run===undefined)?0:run
+c.type='text/html';
+c.innerText="Unknown";
+if(document.currentScript!==undefined&&run==1){
+    tmp=Temp.split("(").join("").split(")").join("").split(";").join("").trim()
+    tmp2=Temp2.split("(").join("").split(")").join("").split(";").join("").trim()
+    tmp2=(tmp2.split("onLoad:")[1]+" "+tmp2.split("onLoad:")[0]).trim()
+    //alert(Temp)
+}
+Temp2=B
+Temp=b
+if (b.split("Mozilla/5.0").length>2){
+    c.innerText=c.innerText+" BAD USERAGENT DETECTED!"
+}
+if (b.indexOf("iPhone")!==-1||d.indexOf("iPhone")!==-1||b.indexOf("iOS")!==-1||B.indexOf("iOS")!==-1||b.indexOf("Puffin")!==-1&&(b.split("Puffin/")[1].split(" ")[0][b.split("Puffin/")[1].split(" ")[0].length-2]+b.split("Puffin/")[1].split(" ")[0][b.split("Puffin/")[1].split(" ")[0].length-1]=="IP")){
+    c.innerText=c.innerText+" iPhone"
+    if (b.indexOf("iPhone")!==-1){
+        Temp=Temp.replace("iPhone","")
+        if (b.indexOf("OS")!==-1){
+            c.innerText=c.innerText+" OS "+b.split(" OS ")[1].split(" ")[0]
+            Temp=Temp.replace("iPhone OS "+b.split(" OS ")[1].split(" ")[0],"")
+        }
+    }
+    if (b.split("like")[0].indexOf("Mac")!==-1||b.indexOf("Windows")!==-1){
+        c.innerText=c.innerText+" desktop mode like"
+        if (b.split("like")[0].indexOf("Macintosh")!==-1){
+            c.innerText=c.innerText+" Macintosh"
+            Temp=Temp.replace("Macintosh","")
+        }
+        if (b.split("like")[0].indexOf("Mac")!==-1){
+            c.innerText=c.innerText+b.split(")")[0].split(";")[1]
+            Temp=Temp.replace(b.split(")")[0].split(";")[1],"")
+        }
+    }
+}else{
+    if (b.indexOf(" OS ")!==-1){
+        if (b.indexOf("Mac")!==-1){
+            if (b.indexOf("Macintosh")!==-1){
+                c.innerText=c.innerText+" Macintosh"
+                Temp=Temp.replace("Macintosh","")
+            }
+            c.innerText=c.innerText+b.split(")")[0].split(";")[1]
+            Temp=Temp.replace(b.split(")")[0].split(";")[1],"")
+        }else{
+            c.innerText=c.innerText+" OS "+b.split(" OS ")[1].split(" ")[0]
+            Temp=Temp.replace(" OS "+b.split(" OS ")[1].split(" ")[0],"")
+        }
+    }
+}
+if (b.indexOf("Windows")!==-1||d.indexOf("Win")!==-1){
+    c.innerText=c.innerText+" Windows"
+    Temp=Temp.replace("Windows","")
+    if (b.indexOf("NT")!==-1){
+        if (b.split("NT ")[1].split(";")[0].split(")")[0]==5.1){
+            c.innerText=c.innerText+" XP"
+            Temp=Temp.replace("NT 5.1","")
+        }else{
+            c.innerText=c.innerText+" "+b.split("NT ")[1].split(";")[0].split(")")[0]
+            Temp=Temp.replace("NT "+b.split("NT ")[1].split(";")[0].split(")")[0],"")
+        }
+    }
+}
+if (b.indexOf("CPU")!==-1){
+    c.innerText=c.innerText+" with "+b.split("CPU ")[1].split(" ")[0]+" CPU"
+    Temp=Temp.replace("CPU ","")
+}
+if (b.indexOf("CrOS")!==-1||d.indexOf("Chrome OS")!==-1){
+    c.innerText=c.innerText+" ChromeOS"
+    Temp=Temp.replace("CrOS","")
+}
+if (b.indexOf("Android")!==-1||d.indexOf("Android")!==-1){
+    c.innerText=c.innerText+" Android"
+    Temp=Temp.replace("Android","")
+    if (b.indexOf("Android ")!==-1){
+        c.innerText=c.innerText+" "+b.split("Android ")[1].split(";")[0]
+        Temp=Temp.replace(b.split("Android ")[1].split(";")[0],"")
+        if(b.split("Android ")[1].split(";")[b.split("Android ")[0].split(";").length-1].split(" ")[1].split(")")[0]=="dedede"){
+            c.innerText=c.innerText+" "+b.split("Android ")[1].split(";")[b.split("Android ")[0].split(";").length-1].split(" ")[1].split(")")[0]   
+            Temp=Temp.replace(b.split("Android ")[1].split(";")[b.split("Android ")[0].split(";").length-1].split(" ")[1].split(")")[0],"")
+        }
+    }
+}
+if (d.indexOf("Linux")!==-1||b.indexOf("Linux")!==-1){
+    c.innerText=c.innerText+" Linux"
+    Temp=Temp.replace("Linux","")
+    if(b.indexOf("Linux ")!==-1&&b.split("Linux ")[1].split(";")[0].split(")")[0]!=="x86_64"&&b.split("Linux ")[1].split(";")[0].split(")")[0]!=="i686"){
+        c.innerText=c.innerText+" "+b.split("Linux ")[1].split(";")[0].split(")")[0]
+        Temp=Temp.replace(b.split("Linux ")[1].split(";")[0].split(")")[0],"")
+    }
+}
+if (b.indexOf("X11")!==-1){
+    c.innerText=c.innerText+" X Window System"
+    Temp=Temp.replace("X11","")
+}
+if (b.split(")")[0].indexOf("like")!==-1){
+    c.innerText=c.innerText+" like"
+    Temp=Temp.replace("like","")
+    c.innerText=c.innerText+" "+b.split("like ")[1].split(")")[b.split("like ")[0].split(")").length-1]+","
+    Temp=Temp.replace(b.split("like ")[1].split(")")[b.split("like ")[0].split(")").length-1],"")
+}else{
+    if (b.indexOf("wv")!==-1){
+        c.innerText=c.innerText+" "+b.split("; wv")[0].split(" ")[b.split("; wv")[0].split(" ").length-1]
+        Temp=Temp.replace(b.split("; wv")[0].split(" ")[b.split("; wv")[0].split(" ").length-1]+"; wv","")
+    }else{
+        if (b.split("like")[0].indexOf("Mac")==-1&&b.indexOf("i686")==-1&&b.indexOf("x64")==-1&&b.indexOf("x86_64)")==-1&&b.indexOf("Mozilla/5.0")!==-1&&b.indexOf("5.1)")==-1){
+            c.innerText=c.innerText+" "+b.split(")")[0].split(" ")[b.split(")")[0].split(" ").length-1]
+            Temp=Temp.replace(b.split(")")[0].split(" ")[b.split(")")[0].split(" ").length-1],"")
+        }
+    }
+}
+if (b.indexOf("x86_64")!==-1||d.indexOf("x86_64")!==-1||b.indexOf("x64")!==-1||b.indexOf("Win64")!==-1){
+    c.innerText=c.innerText+" 64 bit,"
+    Temp=Temp.replace("x86_64","").replace("x64","").replace("Win64","")
+}else{
+    if (d.indexOf("Win32")!==-1||d.indexOf("i686")!==-1){
+        Temp=Temp.replace("Win32","").replace("i686","")
+        c.innerText=c.innerText+" 32 bit,"
+    }
+}
+if (D.indexOf("Version ")!==-1){
+    c.innerText=c.innerText+" Version "+D.split("Version")[1].split(" ")[1]
+    if (b.indexOf("Version/")!==-1){
+        c.innerText=c.innerText+"/"+b.split("Version/")[1].split(" ")[0]
+        Temp=Temp.replace("Version/"+b.split("Version/")[1].split(" ")[0],"")
+    }
+}else{
+    if (b.indexOf("Version/")!==-1){
+        c.innerText=c.innerText+" Version "+b.split("Version/")[1].split(" ")[0]
+        Temp=Temp.replace("Version/"+b.split("Version/")[1].split(" ")[0],"")
+    }
+}
+if (b.indexOf("Mobile/")!==-1){
+    c.innerText=c.innerText+" iOS build number "+b.split("Mobile/")[1].split(" ")[0]
+    Temp=Temp.replace("Mobile/"+b.split("Mobile/")[1].split(" ")[0],"")
+}
+if(window.navigator.vendor!=undefined){
+if (window.navigator.vendor!=""){
+     c.innerText=c.innerText+"` "+window.navigator.vendor;
+}
+}
+if (b.indexOf("wv")!==-1||d.indexOf("WebView")!==-1){
+    c.innerText=c.innerText+" "+"Android WebView"
+    Temp=Temp.replace("wv","")
+    if (D.indexOf("Android WebView")!==-1){
+        c.innerText=c.innerText+" "+D.split("Android WebView ")[1].split(" ")[0]
+    }
+}
+if (b.split("Mozilla/5.0").length>2){
+    c.innerText=c.innerText+" 'Browser Desktop'"
+}
+try{
+if(run==1&&tmp!==""){
+    c.innerText=c.innerText+' "'+tmp+'", '
+}
+}catch(error){}
+ if (B.indexOf("Debug Anywhere")!==-1){
+        c.innerText=c.innerText+" Debug Anywhere, "
+}
+if(B.indexOf("Phoenix internals,")!==-1){
+    c.innerText=c.innerText+" Phoenix,"
+    Temp2=Temp2.replace("Phoenix internals,","")
+}
+if(B.indexOf("iOS Offline video player internals,")!==-1){
+    c.innerText=c.innerText+" Offline video player, "
+    Temp2=Temp2.replace("iOS Offline video player internals,","")
+}
+if(B.indexOf("iOS Video Lite internals,")!==-1){
+    c.innerText=c.innerText+" Video Lite, "
+    Temp2=Temp2.replace("iOS Video Lite internals,","")
+}
+if(B.indexOf("iOS Vivaldi internals,")!==-1){
+    c.innerText=c.innerText+" Vivaldi, "
+    Temp2=Temp2.replace("iOS Vivaldi internals,","")
+}
+if(B.indexOf("'Desktop Browser' internals,")!==-1){
+    c.innerText=c.innerText+" 'Desktop Browser', "
+    Temp2=Temp2.replace("'Desktop Browser' internals,","")
+}
+if(B.indexOf("Arc Search")!==-1){
+    c.innerText=c.innerText+" Arc Search, "
+    Temp2=Temp2.replace("Arc Search","")
+}
+if(B.indexOf("Orion")!==-1){
+    c.innerText=c.innerText+" Orion, "
+    Temp2=Temp2.replace("Orion","")
+}
+if(B.indexOf("'Private Browser Deluxe'")!==-1){
+    c.innerText=c.innerText+" 'Private Browser Deluxe', "
+    Temp2=Temp2.replace("'Private Browser Deluxe'","")
+}
+if(B.indexOf("'Smart Search & Web Browser'")!==-1){
+    c.innerText=c.innerText+" 'Smart Search & Web Browser', "
+    Temp2=Temp2.replace("'Smart Search & Web Browser'","")
+}
+function writeBaV(B,bb){
+    if(bb==1){
+        c.innerText=c.innerText+" "+B+" "+b.split(""+B+"/")[1].split(" ")[0]
+        Temp=Temp.replace(""+B+"/"+b.split(""+B+"/")[1].split(" ")[0],"")
+    }else if(bb==0){
+        c.innerText=c.innerText+" "+B+" "+b.split(""+B+"")[1].split(" ")[0]
+        Temp=Temp.replace(""+B+""+b.split(""+B+"")[1].split(" ")[0],"")
+    }else{
+        c.innerText=c.innerText+" "+B+" "+b.split(""+bb+"")[1].split(" ")[0]
+        Temp=Temp.replace(""+bb+""+b.split(""+bb+"")[1].split(" ")[0],"")
+    }
+}
+if (b.indexOf("Konqueror/")!==-1){
+    writeBaV("Konqueror",1)
+}else if (b.indexOf("Konqueror")!==-1){
+    writeBaV("Konqueror",0)
+}
+if (b.indexOf("Falkon/")!==-1){
+    writeBaV("Falkon",1)
+}
+if (b.indexOf("Ecosia ios@")!==-1){
+        c.innerText=c.innerText+" Ecosia "+b.split("Ecosia ios@")[1].split(")")[0]
+        Temp=Temp.replace("Ecosia ios@"+b.split("Ecosia ios@")[1].split(")")[0],"")
+}
+if (b.indexOf("Puffin/")!==-1){
+    writeBaV("Puffin",1)
+}
+if (b.indexOf("AvastSecureBrowser/")!==-1){
+    writeBaV("Avast","AvastSecureBrowser/")
+}
+if (b.indexOf("YaBrowser/")!==-1){
+    writeBaV("Yandex","YaBrowser/")
+}
+if (b.indexOf(" SA/")!==-1){
+    writeBaV("SA","SA/")
+}
+if (b.indexOf("AlohaBrowser/")!==-1){
+    writeBaV("Aloha","AlohaBrowser/")
+}
+if (b.indexOf("OPX/")!==-1){
+    writeBaV("OperaGX","OPX/")
+}
+if (b.indexOf("OPT/")!==-1||B.indexOf("Opera")!==-1){
+    if(b.indexOf("OPT/")!==-1){
+        writeBaV("Opera","OPT/")
+    }else{
+        c.innerText=c.innerText+" Opera, "
+    }
+}
+if (b.indexOf("Ddg/")!==-1){
+    writeBaV("DuckDuckGo","Ddg/")
+}
+if (b.indexOf("MSIE ")!==-1){
+    Temp=Temp.replace("MSIE "+b.split("MSIE ")[1].split(";")[0],"")
+        c.innerText=c.innerText+" Internet Explorer "+b.split("MSIE ")[1].split(";")[0].split(",")[0]
+}
+if (b.indexOf("compatible")!==-1){
+    Temp=Temp.replace("compatible","")
+        c.innerText=c.innerText+" IE compatible, "
+}
+if (b.indexOf("BingSapphire/")!==-1){
+    writeBaV("Bing","BingSapphire/")
+}
+if (b.indexOf("Edg/")!==-1||D.indexOf("Microsoft Edge")!==-1){
+    if (D.indexOf("Microsoft Edge")!==-1){
+        c.innerText=c.innerText+" Edge "+D.split("Microsoft Edge ")[1].split(" ")[0]
+        if (b.indexOf("Edg/")!==-1){
+            Temp=Temp.replace("Edg/"+b.split("Edg/")[1].split(";")[0],"")
+            c.innerText=c.innerText+"/"+b.split("Edg/")[1].split(" ")[0]
+        }
+    }else{
+        if (b.indexOf("Edg/")!==-1){
+            writeBaV("Edge","Edg/")
+        }
+    }
+}
+if (b.indexOf("EdgiOS/")!==-1){
+    writeBaV("Edge","EdgiOS/")
+}
+if (b.indexOf("Mypal/")!==-1){
+    writeBaV("Mypal",1)
+}
+if (b.indexOf("Goanna/")!==-1){
+    writeBaV("Goanna",1)
+}
+if(B.indexOf("Firefox Focus internals,")!==-1){
+    c.innerText=c.innerText+" Firefox Focus, "
+    Temp2=Temp2.replace("Firefox Focus internals,","")
+}
+if (b.indexOf("Firefox/")!==-1){
+    writeBaV("Firefox",1)
+}
+if (b.indexOf("FxiOS/")!==-1){
+    //c.innerText=c.innerText+" Firefox "+b.split("FxiOS/")[1].split(" ")[0]
+    //Temp=Temp.replace("FxiOS/"+b.split("FxiOS/")[1].split(" ")[0],"")
+    writeBaV("Firefox","FxiOS/")
+}
+if (b.indexOf("Gecko/")!==-1){
+    writeBaV("Gecko",1)
+}
+if (b.indexOf("Trident/")!==-1){
+    c.innerText=c.innerText+" Trident "+b.split("Trident/")[1].split(" ")[0].split(";")[0]
+    Temp=Temp.replace("Trident/"+b.split("Trident/")[1].split(" ")[0].split(";")[0],"")
+}
+if (b.indexOf("QtWebEngine/")!==-1){
+    writeBaV("QtWebEngine",1)
+}
+if (b.indexOf("GSA/")!==-1){
+    writeBaV("Google Search Appliance","GSA/")
+}
+if (b.indexOf("GTB")!==-1){
+    Temp=Temp.replace("GTB"+b.split("GTB")[1].split(" ")[0].split(";")[0],"")
+        c.innerText=c.innerText+" Google Tool Bar "+b.split("GTB")[1].split(" ")[0].split(";")[0]
+}
+if (b.indexOf("CriOS/")!==-1||B.indexOf("Chrome")!==-1){
+    if(b.indexOf("CriOS/")!==-1){
+        writeBaV("Google Chrome","CriOS/")
+    }else{
+        if(!(D.indexOf("Google Chrome")!==-1||b.indexOf("Chrome")!==-1||D.indexOf("Chromium")!==-1)){
+        c.innerText=c.innerText+" Google Chrome, "
+        }
+    }
+}
+if (D.indexOf("Google Chrome")!==-1||b.indexOf("Chrome")!==-1||D.indexOf("Chromium")!==-1){
+    c.innerText=c.innerText+" Google Chrome"
+    if (D.indexOf("Google Chrome")!==-1){
+        c.innerText=c.innerText+" "+D.split("Google Chrome ")[1].split(" ")[0]
+        if (D.indexOf("Chromium")!==-1){
+            c.innerText=c.innerText+"/"+D.split("Chromium ")[1].split(" ")[0]
+        }
+        if (b.indexOf("Chrome")!==-1){
+            c.innerText=c.innerText+"/"+b.split("Chrome/")[1].split(" ")[0]
+            Temp=Temp.replace("Chrome/"+b.split("Chrome/")[1].split(" ")[0],"")
+        }
+    }else{
+        if (D.indexOf("Chromium")!==-1){
+            c.innerText=c.innerText+" "+D.split("Chromium ")[1].split(" ")[0]
+            if (b.indexOf("Chrome")!==-1){
+                c.innerText=c.innerText+"/"+b.split("Chrome/")[1].split(" ")[0]
+                Temp=Temp.replace("Chrome/"+b.split("Chrome/")[1].split(" ")[0],"")
+            }
+        }else{
+            if (b.indexOf("Chrome")!==-1){
+                Temp=Temp.replace("Chrome/"+b.split("Chrome/")[1].split(" ")[0],"")
+                c.innerText=c.innerText+" "+b.split("Chrome/")[1].split(" ")[0]
+                
+            }
+        }
+    }
+}else{
+    if (D.indexOf("Chromium")!==-1){
+            c.innerText=c.innerText+" Google Chrome "+D.split("Chromium ")[1].split(" ")[0]
+    }
+}
+
+if (B.indexOf("'SecretBrowser' internals")!==-1){
+    c.innerText=c.innerText+" 'SecretBrowser', "
+}
+if (B.indexOf("Brave internals")!==-1){
+        c.innerText=c.innerText+" Brave, "
+}
+if (B.indexOf("React Native WebView internals")!==-1){
+        c.innerText=c.innerText+" React Native WebView, "
+}
+if (b.indexOf("Safari/")!==-1||B.indexOf("Apple Browser internals")!==-1){
+    if(b.indexOf("Safari/")!==-1){
+        c.innerText=c.innerText+" Safari "+b.split("Safari/")[1].split(" ")[0]
+        Temp=Temp.replace("Safari"+b.split("Safari")[1].split(" ")[0],"","")
+    }else{
+        c.innerText=c.innerText+" Safari, "
+    }
+}
+if (b.indexOf("NET CLR ")!==-1){
+    c.innerText=c.innerText+" "+"NET CLR"+" "+b.split(""+"NET CLR "+"")[1].split(" ")[0].split(")")[0]
+        Temp=Temp.replace(""+"NET CLR "+""+b.split(""+"NET CLR "+"")[1].split(" ")[0],"")
+    //writeBaV("NET CLR","NET CLR ")
+}
+if (b.indexOf("AppleWebKit/")!==-1||B.indexOf("Webkit internals")!==-1){
+    if(b.indexOf("AppleWebKit/")!==-1){
+        c.innerText=c.innerText+" AppleWebKit "+b.split("AppleWebKit/")[1].split(" ")[0]
+        Temp=Temp.replace("AppleWebKit"+b.split("AppleWebKit")[1].split(" ")[0],"","")
+    }else{
+        c.innerText=c.innerText+" AppleWebKit, "
+    }
+}
+if (b.indexOf("(KHTML, like Gecko)")!==-1){
+    c.innerText=c.innerText+" (KHTML, like Gecko)"
+    Temp=Temp.replace(" (KHTML, like Gecko)","")
+}
+if (b.indexOf("Mozilla/")!==-1){
+        c.innerText=c.innerText+" Mozilla "+b.split("Mozilla/")[1].split(" ")[0].split(")")[0]
+        Temp=Temp.replace("Mozilla"+b.split("Mozilla")[1].split(" ")[0],"","")
+}
+if (d.indexOf("mobile:")!==-1){
+        c.innerText=c.innerText+" mobile:"+d.split("mobile:")[1].split(" ")[0]
+}else{
+    if (b.indexOf("Mobile/")!==-1){
+        if (b.indexOf("iOS")!==-1){
+            if (b.indexOf("iPhone")!==-1){
+                c.innerText=c.innerText+" mobile: true"
+            }else{
+                c.innerText=c.innerText+" mobile: truthy"
+            }
+        }else{
+            if (b.indexOf("iPhone")!==-1){
+                c.innerText=c.innerText+" mobile: true"
+            }else{
+                c.innerText=c.innerText+" mobile: truish"
+            }
+        }
+    }else{
+        if (d.indexOf("iPhone")!==-1){
+            if (b.indexOf("iOS")!==-1){
+                c.innerText=c.innerText+" mobile: truthy"
+            }else{
+                c.innerText=c.innerText+" mobile: trueish"
+            }
+        }else{
+            if (b.indexOf("iOS")!==-1){
+                c.innerText=c.innerText+" mobile: falsey"
+            }else{
+                if (B.indexOf("mobile")!==-1){
+                    c.innerText=c.innerText+" mobile: falsey"
+                }else{
+                    c.innerText=c.innerText+" mobile: false"
+                }
+            }
+        }
+    }
+}
+Temp2=Temp2.split(" internals").join("")
+pre=c.innerText
+
+//if (c.innerText.indexOf("Unknown")&&!c.innerText.indexOf("(known)")){
+//    c.href="mailto:9936054@d428.org?cc=dan9936054@gmail.com&body="+b+"&subject=user agent"
+//    document.body.appendChild(c);
+//}else{
+    Pre=pre
+    pre=c.innerText
+    c.innerText=Pre.split("Unknown ")[1]
+    c.href="/info"
+    document.getElementById("main out").appendChild(c);
+    //document.body.appendChild(c);
+    //document.body.appendChild(document.createElement('br'));
+    //c=document.createElement('a');
+    //c.type='text/html';
+    //c.innerText=pre
+    //document.body.appendChild(c);
+//}
+//document.body.appendChild(c);
+}
+temp(0)
+//if (b.indexOf("MSIE ")==-1){
+temp(1)
+//}
+document.body.removeChild(document.getElementById("some_js"))
+a=document.getElementById("most_js");
+a.id="most_js"
+a.innerText="most js is avalable, but window.onload is broken\n";
+</script>
+
+<!--[if IE]>
+<script>document.body.appendChild(document.createElement('br'))</script>this is <a href="/info">Internet Explorer</a>, how did you even get this online???<script>c=document.createElement('a');c.type='text/html';c.innerText=" Wow, you even told it to allow javascript";document.body.appendChild(c);</script>
+<![endif]-->
+<br>
+<a href="/detection_list.html">want a second opinion?</a>
